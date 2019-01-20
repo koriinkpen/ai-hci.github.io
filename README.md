@@ -55,7 +55,7 @@ Our workshop provides an opportunity for researchers and practitioners intereste
 Organizers
 ==========
 
-**[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft Research where she leads the Social Technologies research team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years.
+**[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft Research where she is a member of the MSR Airtificial Intelligence team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years.
 
 **[Munmun De Choudhury](http://www.munmund.net/)** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions.
 
