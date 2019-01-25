@@ -55,7 +55,7 @@ Our workshop provides an opportunity for researchers and practitioners intereste
 Organizers
 ==========
 
-**[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft Research where she is a member of the MSR Airtificial Intelligence team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years.
+**[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft Research where she is a member of the MSR Artificial Intelligence team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years.
 
 **[Munmun De Choudhury](http://www.munmund.net/)** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions.
 
@@ -70,7 +70,7 @@ Organizers
 
 The (proposed) schedule includes:
 
-**Invited Speaker**. TBC
+**Invited Speaker**. Rich Caruana, Principal Research, Microsoft Research AI
 
 **Researcher "Speed Dating"**. Participants will line up and get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
